@@ -3,7 +3,7 @@ Netflix4Mahout
 
 Translate Netflix dataset into Mahout dataset
 
-/*
+
  * Author:  Craig Kuo-Jen Chao
  * Date: 2014/04/17
  * Topic: Translate the Netflix Dataset into Mahout CF input dataset
@@ -21,4 +21,5 @@ Translate Netflix dataset into Mahout dataset
  *          B. content format:
  *                              user,item,rate
  *                              ....
- */
+ 
+
